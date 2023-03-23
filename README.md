@@ -9,13 +9,13 @@ https://geometryspot.com/activities/
 
 https://fortnitemanonfortnite.github.io/
 
-mathadventure1.github.io/sm64/sm64/index.html 
+https://mathadventure1.github.io/sm64/sm64/index.html 
 
-picklekid31.github.io/GBA-unblocked-games/ 
+https://picklekid31.github.io/GBA-unblocked-games/ 
 
-cattn.github.io/gba/ 
+https://cattn.github.io/gba/
 
-593d4d43-3073-45d0-86e2-0443d15adf21.id.repl.co/index.html 
+https://593d4d43-3073-45d0-86e2-0443d15adf21.id.repl.co/index.html)
 
 https://funkymods.github.io/
 
