@@ -1,7 +1,11 @@
 # Unblocked-games
-all umblocked games
+all unblocked games
 
-PROXY=https://your-mom-postalservice.onrender.com/search.html
+PROXY
+
+https://your-mom-postalservice.onrender.com/search.html
+
+https://stellarinter-interstellar-thisiscrazy.onrender.com/
 
 GAMES
 
