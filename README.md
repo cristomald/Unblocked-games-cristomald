@@ -7,6 +7,19 @@ https://your-mom-postalservice.onrender.com/search.html
 
 https://stellarinter-interstellar-thisiscrazy.onrender.com/
 
+https://tristan-thorne-is-cool.onrender.com/search
+
+https://trickjoker-is-cool.onrender.com/search
+
+https://interstellar-dkia.onrender.com/search.html
+
+https://interstellar-ciyi.onrender.com/search.html
+
+https://io.sqeven.workers.dev/
+
+https://io.sqeven.workers.dev/
+
+
 GAMES
 
 https://geometryspot.com/activities/
