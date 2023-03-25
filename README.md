@@ -21,6 +21,8 @@ https://bubbo.strangled.net/search
 
 https://classes-uzw6.onrender.com/
 
+https://securly-is-bad.onrender.com/
+
 GAMES
 
 https://geometryspot.com/activities/
