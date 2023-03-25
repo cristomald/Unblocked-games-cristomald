@@ -27,7 +27,7 @@ https://interstellar-djc8.onrender.com/
 
 https://fr4vtgf.onrender.com/play.html  credit for TrickJoker 
 
-GAMES
+GAMES most of them i found most of them from TrickJoker 
 
 https://geometryspot.com/activities/
 
