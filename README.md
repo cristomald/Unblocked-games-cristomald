@@ -17,7 +17,7 @@ https://interstellar-ciyi.onrender.com/search.html
 
 https://io.sqeven.workers.dev/
 
-https://io.sqeven.workers.dev/
+https://bubbo.strangled.net/search
 
 
 GAMES
