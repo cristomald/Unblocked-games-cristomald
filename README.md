@@ -19,6 +19,7 @@ https://io.sqeven.workers.dev/
 
 https://bubbo.strangled.net/search
 
+https://classes-uzw6.onrender.com/
 
 GAMES
 
