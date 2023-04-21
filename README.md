@@ -5,69 +5,10 @@ MOVIES
 https://skooltv.github.io/#/search/movie
 
 PROXY
-
-https://your-mom-postalservice.onrender.com/search.html credit for TrickJoker
-
-https://stellarinter-interstellar-thisiscrazy.onrender.com/
-
-https://tristan-thorne-is-cool.onrender.com/search credit for TrickJoker
-
-https://trickjoker-is-cool.onrender.com/search credit for TrickJoker
-
-https://interstellar-dkia.onrender.com/search.html
-
-https://interstellar-ciyi.onrender.com/search.html
-
-https://io.sqeven.workers.dev/
-
-https://bubbo.strangled.net/search
-
-https://classes-uzw6.onrender.com/
-
-https://securly-is-bad.onrender.com/
-
-https://interstellar-djc8.onrender.com/
-
-https://fr4vtgf.onrender.com/play.html  credit for TrickJoker 
-
-https://orca-bubbo.onrender.com/
-
-https://messi-the-goat.onrender.com/
-
-https://ima-big-dog-yea-you-a-mouse.onrender.com/
-
-https://abc-def-ghi-jkl-mnop-qrs-tuv-wxyz.onrender.com/
-
-https://in-ontop-lovebub.onrender.com/
-
-https://buzz-lightyear-dad.onrender.com/
-
-https://interstellar-lnyg.onrender.com/
-
-https://stellarinter-interstellar-thisiscrazy.onrender.com/
-
-https://mathelascience-help.onrender.com/
-
-https://interstellar-tmkp.onrender.com/
-
-https://interstellar-65yr.onrender.com/
-
-https://bromadeitprofessional.onrender.com/
-
-https://geometryspot.onrender.com/
-
-https://fr4vtgf.onrender.com/
-
-https://interstellar-6m1j.onrender.com/
-
-https://interstellar-kbqc.onrender.com/
-
-https://interstellar-djc8.onrender.com/
-
-https://deez-nuts-giggity.onrender.com/
-
-https://securly-is-bad.onrender.com/
-
+ https://about.ariely.info/
+ 
+ https://marrige-deployments.onrender.com/
+ 
 GAMES most of them i found most of them from TrickJoker 
 
 https://geometryspot.com/activities/
