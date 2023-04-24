@@ -9,6 +9,8 @@ PROXY
  
  https://marrige-deployments.onrender.com/
  
+ https://net.cloudranger.net/
+ 
 GAMES most of them i found most of them from TrickJoker 
 
 https://geometryspot.com/activities/
