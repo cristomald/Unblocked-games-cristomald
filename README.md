@@ -11,6 +11,10 @@ PROXY
  
  https://net.cloudranger.net/
  
+ https://dull-teal-quail-belt.cyclic.app/
+ 
+ https://about.computers-science.org/
+ 
 GAMES most of them i found most of them from TrickJoker 
 
 https://geometryspot.com/activities/
