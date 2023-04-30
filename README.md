@@ -15,6 +15,8 @@ PROXY
  
  https://about.computers-science.org/
  
+ https://admin.mordeco.com/
+ 
 GAMES most of them i found most of them from TrickJoker 
 
 https://geometryspot.com/activities/
