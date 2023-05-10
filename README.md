@@ -5,6 +5,7 @@ MOVIES
 https://skooltv.github.io/#/search/movie
 
 PROXY
+
  https://about.ariely.info/
  
  https://marrige-deployments.onrender.com/
@@ -15,7 +16,31 @@ PROXY
  
  https://about.computers-science.org/
  
- https://admin.mordeco.com/
+ https://admin.mordeco.com/ 
+ 
+ https://scram-loves-this.onrender.com
+ 
+https://scram.onrender.com
+
+https://scram1.onrender.com
+
+https://scram2.onrender.com
+
+https://scram3.onrender.com
+
+https://scram4.onrender.com
+
+https://scram5.onrender.com
+
+https://scram6.onrender.com
+
+https://scram7.onrender.com
+
+https://scram8.onrender.com
+
+https://scram9.onrender.com
+
+https://scram10.onrender.com
  
 GAMES most of them i found most of them from TrickJoker 
 
